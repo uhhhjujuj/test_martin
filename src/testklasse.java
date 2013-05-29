@@ -1,11 +1,15 @@
 
 public class testklasse {
 
-	/**
-	 * @param args
-	 */
+	int blub a;
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
+		public static int bla (int a, int b){
+			
+			return a + b;
+			
+		}
 
 	}
 
